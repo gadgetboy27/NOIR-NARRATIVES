@@ -1,0 +1,5 @@
+{
+  "name": "Noir Narratives",
+  "description": "An interactive, infinite comic generator powered by Gemini (Nano Banana). Create your own occult detective noir story where every choice generates a new panel and plot twist.",
+  "requestFramePermissions": []
+}
